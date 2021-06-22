@@ -1,4 +1,5 @@
-void main (){
+void main ()
+{
     int dato_entero = -18;
     double dato_doble = 12.5;
     String dato_cadena = "Hola 'hola' mundo";
